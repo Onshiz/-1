@@ -1,0 +1,4 @@
+﻿  KSKSClient.cpp
+C:\Users\1\source\repos\KSKSClient\KSKSClient\KSKSClient.cpp(25,26): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\1\source\repos\KSKSClient\KSKSClient\KSKSClient.cpp(45,12): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  KSKSClient.vcxproj -> C:\Users\1\source\repos\KSKSClient\x64\Debug\KSKSClient.exe
